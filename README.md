@@ -1,1 +1,1 @@
-# Komaza-project-1
+# Komaza-project
